@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wN1bRNu43RfJsnRrMJ2nnOuSv+ctZk4J1wbrDOYlwdw=",
+  "Source": "ChuckNorrisJokesWebAPI",
+  "BasePath": "_content/ChuckNorrisJokesWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
